@@ -4,7 +4,7 @@
 
 ---
 
-# Bridging Innovation and Automation for Modern Software
+# <p align="center"> Bridging Innovation and Automation for Modern Software </p>
 
 ---
 
