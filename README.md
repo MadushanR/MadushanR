@@ -4,7 +4,7 @@
 
 ---
 
-# Computer Science Student | Bridging Innovation and Automation for Modern Software | Expanding Expertise in Machine Learning
+# Bridging Innovation and Automation for Modern Software
 
 ---
 
