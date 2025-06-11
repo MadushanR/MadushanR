@@ -21,14 +21,14 @@
 **Languages**  
 `Python` `Java` `JavaScript` `C++` `C#` `SQL` `Bash` `PHP` `HTML` `CSS`
 
-**Web & App Dev**  
-`React.js` `AngularJS` `.NET Core` `Spring Boot` `Node.js` `Flask` `Jira`
+**Cloud & DevOps**  
+`AWS` `Azure` `GCP` `Docker` `Kubernetes` `Terraform` `Ansible` `Jenkins` `GitHub Actions` `Control-M`
 
 **Data Science & AI**  
 `TensorFlow` `Keras` `Pandas` `Scikit-learn` `MLflow` `NumPy` `Matplotlib`
 
-**Cloud & DevOps**  
-`AWS` `Azure` `GCP` `Docker` `Kubernetes` `Terraform` `Ansible` `Jenkins` `GitHub Actions` `Control-M`
+**Web & App Dev**  
+`React.js` `AngularJS` `.NET Core` `Spring Boot` `Node.js` `Flask` `Jira`
 
 **Databases**  
 `MySQL` `MongoDB` `Firebase` `PostgreSQL`
