@@ -7,9 +7,8 @@
 # <p align="center"> Bridging Innovation and Automation for Modern Software </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rajshekhar26/rajshekhar26/master/images/pulse-divider.gif" width="70%" alt="Pulse Divider" />
+  <img src="https://i.imgur.com/pUl7Z9N.gif" width="80%" alt="Neon Pulse Divider" />
 </p>
-
 
 ## 🙋‍♂️ About Me
 
