@@ -6,9 +6,7 @@
 
 # <p align="center"> Bridging Innovation and Automation for Modern Software </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=50&section=footer"/>
-</p>
+---
 
 ## 🙋‍♂️ About Me
 
