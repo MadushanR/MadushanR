@@ -33,7 +33,9 @@
 **Databases**  
 `MySQL` `MongoDB` `Firebase` `PostgreSQL`
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer"/>
+</p>
 
 ## 💻 Featured Projects
 
