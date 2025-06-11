@@ -61,6 +61,29 @@
 
 ---
 
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="mailto:madushanrajendran@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/madushan-rajendran/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://github.com/MadushanR" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+  <a href="https://github.com/MadushanR/MadushanR/blob/main/Madushan_Rajendran_Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-8A2BE2?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume Badge"/>
+  </a>
+</p>
+
+<p align="center">
+  📍 Based in Oakville, ON &nbsp;|&nbsp; 💬 Always open to collaborations and opportunities!
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 ![Madushan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MadushanR&show_icons=true&theme=tokyonight&hide_border=true)
@@ -79,14 +102,5 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=MadushanR&theme=tokyonight&hide_border=true)
 
-
----
-
-## 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/madushan-rajendran/)  
-📬 Email: madushanrajendran@gmail.com  
-🌍 Oakville, ON  
-📁 [My Resume (PDF)](https://github.com/MadushanR/MadushanR/blob/main/Madushan_Rajendran.pdf)
 
 ---
