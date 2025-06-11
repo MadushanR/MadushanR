@@ -34,7 +34,7 @@
 `MySQL` `MongoDB` `Firebase` `PostgreSQL`
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer"/>
+  <img src="https://raw.githubusercontent.com/MadushanR/MadushanRAssets/main/assets/pulse-divider.gif" alt="animated divider" width="80%" />
 </p>
 
 ## 💻 Featured Projects
