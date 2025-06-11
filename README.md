@@ -4,7 +4,8 @@
 
 ---
 
-# <p align="center"> Bridging Innovation and Automation for Modern Software </p>
+# <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/> Bridging Innovation and Automation for Modern Software </p>
 
 ---
 
