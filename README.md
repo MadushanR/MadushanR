@@ -6,9 +6,7 @@
 
 # <p align="center"> Bridging Innovation and Automation for Modern Software </p>
 
-<p align="center">
-  <img src="https://i.imgur.com/pUl7Z9N.gif" width="80%" alt="Neon Pulse Divider" />
-</p>
+---
 
 ## 🙋‍♂️ About Me
 
