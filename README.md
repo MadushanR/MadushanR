@@ -34,7 +34,7 @@
 `MySQL` `MongoDB` `Firebase` `PostgreSQL`
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MadushanR/MadushanRAssets/main/assets/pulse-divider.gif" alt="animated divider" width="80%" />
+  <img src="https://github.com/Ashutosh00710/github-readme-activity-graph/blob/master/assets/line-break.gif?raw=true" width="80%"/>
 </p>
 
 ## 💻 Featured Projects
