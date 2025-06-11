@@ -73,7 +73,7 @@
   <a href="https://github.com/MadushanR" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
-  <a href="https://github.com/MadushanR/MadushanR/blob/main/Madushan_Rajendran_Resume.pdf" target="_blank">
+  <a href="https://github.com/MadushanR/MadushanR/blob/main/Madushan_Rajendran.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume-8A2BE2?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume Badge"/>
   </a>
 </p>
