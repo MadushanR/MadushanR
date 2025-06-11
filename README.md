@@ -1,4 +1,4 @@
-<p align="center">
+  <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Madushan+Rajendran" alt="Typing SVG" />
 </p>
 
@@ -34,7 +34,7 @@
 `MySQL` `MongoDB` `Firebase` `PostgreSQL`
 
 <p align="center">
-  <img src="https://github.com/Ashutosh00710/github-readme-activity-graph/blob/master/assets/line-break.gif?raw=true" width="80%"/>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%" alt="snake animation" />
 </p>
 
 ## 💻 Featured Projects
