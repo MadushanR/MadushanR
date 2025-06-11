@@ -4,7 +4,7 @@
 
 ---
 
-# <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Bridging%20Innovation%20and%20Automation%20for%20Modern%20Software&fontAlign=38&fontAlignY=35&descAlign=60"> </p>
+# <p align="center"> Bridging Innovation and Automation for Modern Software </p>
 
 ---
 
