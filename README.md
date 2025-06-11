@@ -4,6 +4,10 @@
 
 ---
 
+# Computer Science Student | Bridging Innovation and Automation for Modern Software | Expanding Expertise in Machine Learning
+
+---
+
 ## 🙋‍♂️ About Me
 
 🎓 3rd-year Computer Science student specializing in **Cloud Computing** at Sheridan College  
