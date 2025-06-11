@@ -1,4 +1,10 @@
-# 👋 Hey there! I'm Madushan Rajendran
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Madushan+Rajendran" alt="Typing SVG" />
+</p>
+
+---
+
+## 🙋‍♂️ About Me
 
 🎓 3rd-year Computer Science student specializing in **Cloud Computing** at Sheridan College  
 ☁️ Ex-Application Management Engineer @ LSEG | Cloud, DevOps & AI Enthusiast  
