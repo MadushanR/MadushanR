@@ -81,6 +81,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/madushan-rajendran/)  
 📬 Email: madushanrajendran@gmail.com  
 🌍 Oakville, ON  
-📁 [My Resume (PDF)](https://github.com/MadushanR/MadushanR/blob/main/Madushan_Rajendran_Resume.pdf)
+📁 [My Resume (PDF)](https://github.com/MadushanR/MadushanR/blob/main/Madushan_Rajendran.pdf)
 
 ---
