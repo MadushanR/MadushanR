@@ -11,27 +11,27 @@
 ## 🙋‍♂️ About Me
 
 🎓 3rd-year Computer Science student specializing in **Cloud Computing** at Sheridan College  
-☁️ Ex-Application Management Engineer @ LSEG | Cloud, DevOps & AI Enthusiast  
+☁️ Experienced in **Site Reliability, ERP Systems, and Application Management** with industry exposure at **PointClickCare, De Havilland, and London Stock Exchange Group**
 🛠️ Actively building smart, scalable systems using **AWS, Terraform, Docker, TensorFlow, and React**
 
 ---
 
 ## 🔧 Tech Stack
 
-**Languages**  
-`Python` `Java` `JavaScript` `C++` `C#` `SQL` `Bash` `PHP` `HTML` `CSS`
+**Languages & Tools**  
+`Python` `Java` `JavaScript` `C++` `C#` `SQL` `Bash` `PHP` `HTML` `CSS` `ServiceNow`  
 
 **Cloud & DevOps**  
-`AWS` `Azure` `GCP` `Docker` `Kubernetes` `Terraform` `Ansible` `Jenkins` `GitHub Actions` `Control-M`
+`AWS` `Azure` `GCP` `Docker` `Kubernetes` `Terraform` `Ansible` `Jenkins` `GitHub Actions` `Control-M`  
 
-**Data Science & AI**  
-`TensorFlow` `Keras` `Pandas` `Scikit-learn` `MLflow` `NumPy` `Matplotlib`
+**Data Science & Analytics**  
+`TensorFlow` `Keras` `Scikit-learn` `Pandas` `NumPy` `Matplotlib` `MLflow` `Power BI` `Excel`  
 
 **Web & App Dev**  
-`React.js` `AngularJS` `.NET Core` `Spring Boot` `Node.js` `Flask` `Jira`
+`React.js` `AngularJS` `Node.js` `.NET Core` `Spring Boot` `Flask` `Jira` `Git`  
 
 **Databases**  
-`MySQL` `MongoDB` `Firebase` `PostgreSQL`
+`MySQL` `MongoDB` `Firebase` `PostgreSQL`  
 
 ---
 
@@ -58,10 +58,14 @@
 
 ## 🧩 Experience Snapshot
 
-- **Sheridan College** – Student Ambassador & International Community Representative  
-- **London Stock Exchange Group** – Associate Application Management Engineer  
-  • Automated workflows with AWS, Jenkins & Ansible  
-  • Created dashboards with DataDog and documented procedures reducing errors by 90%
+- **Site Reliability Engineer Co-op** – *PointClickCare* *(Sep 2025 – Dec 2025)*  
+- **ERP System Intern** – *De Havilland Aircraft of Canada Limited* *(Jun 2025 – Aug 2025)*  
+  • Developed SOPs, dashboards & data migration scripts improving accuracy by 95%  
+- **Student Ambassador** – *Sheridan College* *(Sep 2024 – Apr 2025)*  
+  • Conducted 20+ tours & engaged 300+ students, enhancing communication & leadership skills  
+- **Associate Application Management Engineer** – *London Stock Exchange Group (LSEG)* *(Apr 2022 – Dec 2022)*  
+  • Automated BAU tasks with **AWS, Jenkins, Ansible, Control-M**, cutting manual effort by 80%  
+- **Application Management Intern** – *LSEG* *(Oct 2021 – Mar 2022)*  
 
 ---
 
