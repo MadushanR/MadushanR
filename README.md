@@ -11,7 +11,7 @@
 ## 🙋‍♂️ About Me
 
 🎓 3rd-year Computer Science student specializing in **Cloud Computing** at Sheridan College  
-☁️ Experienced in **Site Reliability, ERP Systems, and Application Management** with industry exposure at **PointClickCare, De Havilland, and London Stock Exchange Group**
+☁️ Experienced in **Site Reliability, ERP Systems, and Application Management** with industry exposure at **PointClickCare, De Havilland, and London Stock Exchange Group** <br>
 🛠️ Actively building smart, scalable systems using **AWS, Terraform, Docker, TensorFlow, and React**
 
 ---
@@ -60,12 +60,9 @@
 
 - **Site Reliability Engineer Co-op** – *PointClickCare* *(Sep 2025 – Dec 2025)*  
 - **ERP System Intern** – *De Havilland Aircraft of Canada Limited* *(Jun 2025 – Aug 2025)*  
-  • Developed SOPs, dashboards & data migration scripts improving accuracy by 95%  
 - **Student Ambassador** – *Sheridan College* *(Sep 2024 – Apr 2025)*  
-  • Conducted 20+ tours & engaged 300+ students, enhancing communication & leadership skills  
 - **Associate Application Management Engineer** – *London Stock Exchange Group (LSEG)* *(Apr 2022 – Dec 2022)*  
-  • Automated BAU tasks with **AWS, Jenkins, Ansible, Control-M**, cutting manual effort by 80%  
-- **Application Management Intern** – *LSEG* *(Oct 2021 – Mar 2022)*  
+- **Application Management Intern** – *London Stock Exchange Group (LSEG)* *(Oct 2021 – Mar 2022)*  
 
 ---
 
