@@ -12,7 +12,6 @@
 
 🎓 3rd-year Computer Science student specializing in **Cloud Computing** at Sheridan College  
 ☁️ Experienced in **Site Reliability, ERP Systems, and Application Management** with industry exposure at **PointClickCare, De Havilland, and London Stock Exchange Group**
-
 🛠️ Actively building smart, scalable systems using **AWS, Terraform, Docker, TensorFlow, and React**
 
 ---
