@@ -24,6 +24,9 @@
 **Cloud & DevOps**  
 `AWS` `Azure` `GCP` `Docker` `Kubernetes` `Terraform` `Ansible` `Jenkins` `GitHub Actions`
 
+**AI & Agentic Systems**  
+`LangGraph` `OpenAI GPT-4o` `OpenRouter JEV-1.13` `IBM watsonx.ai` `IBM Granite` `Vercel AI SDK` `XGBoost` `Rasa`  
+
 **Data Science & Analytics**  
 `TensorFlow` `Keras` `Scikit-learn` `Pandas` `NumPy` `Matplotlib` `MLflow` `Power BI` `Excel`  
 
