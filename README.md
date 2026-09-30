@@ -16,7 +16,7 @@
 
 ---
 
-## 🔧 Tech Stack
+## 🔧 Tech
 
 **Languages & Tools**  
 `Python` `Java` `JavaScript` `C++` `C#` `SQL` `Bash` `PHP` `HTML` `CSS` 
@@ -60,7 +60,8 @@
 
 ## 🧩 Experience Snapshot
 
-- **Site Reliability Engineer Co-op** – *PointClickCare* *(May 2026 – Current)* 
+- **Site Reliability Engineer Intern** – *PointClickCare* *(Sep 2026)* 
+- **Site Reliability Engineer Co-op** – *PointClickCare* *(May 2026 – Aug 2026)* 
 - **Site Reliability Engineer Co-op** – *PointClickCare* *(Sep 2025 – Dec 2025)*  
 - **ERP System Intern** – *De Havilland Aircraft of Canada Limited* *(Jun 2025 – Aug 2025)*  
 - **Student Ambassador** – *Sheridan College* *(Sep 2024 – Apr 2025)*  
