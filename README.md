@@ -37,23 +37,25 @@
 
 ## 💻 Featured Projects
 
-### 🚀 [Smart Inventory System](https://github.com/MadushanR/Restaurant_Management_System)
-> AI-powered stock management using React, .NET, MySQL, TensorFlow  
-• Reduces stockouts by 40% with automated reordering  
-• Deployed on AWS with Terraform & CI/CD via CodeBuild
+### 🤖 [LangGraph JEV Orchestrator](https://github.com/MadushanR/langgraph-jev-orchestrator)
+> Multi-agent compliance review using LangGraph, FastAPI, Next.js, GPT-4o, and OpenRouter JEV-1.13  
+• Dynamically routes text and document reviews to specialist agents for PII, risk, tone, deadlines, and policy checks  
+• Sends high-risk findings to a judge agent and pauses before synthesis for human review; persists workflow state in PostgreSQL
 
-### 🧠 [AI Image Classifier](https://github.com/MadushanR/AI-Image-Classification)
-> Image classification on CIFAR-10 using MobileNetV2 + TensorFlow  
-• Achieved 87% accuracy with MLflow integration and Docker deployment
+### 🏗️ [AI Enterprise Architect](https://github.com/MadushanR/ai-enterprise-architect)
+> AI-assisted architecture review board built with LangGraph, IBM Granite via watsonx.ai, and Next.js  
+• Runs bounded debates among architecture, SRE, FinOps, and security personas with version-controlled prompts and compliance rules  
+• Generates Mermaid architecture diagrams and PowerPoint pitch decks; supports audio feedback and chaos scenarios
+
+### 🏥 [CareSync](https://github.com/MadushanR/CareSync)
+> Healthcare workflow platform using Next.js, Auth0, Supabase, FastAPI, XGBoost, and Rasa  
+• Connects clinic, doctor, and patient dashboards with appointments, health records, and patient vitals  
+• Integrates disease predictions into doctor review and saves approved plans; includes an appointment chatbot
 
 ### 🌦️ [IoT Weather Monitor](https://github.com/MadushanR/iot-weather-monitoring)
-> Real-time IoT dashboard using Flask, Firebase, and AngularJS  
-• Optimizes farm irrigation with <2s latency and MQTT
-
-### 📱 [Hackathon Project (OpenAI GPA Estimator)](https://github.com/MadushanR/Hackathon2025)
-> Swift iOS app powered by OpenAI and SQL backend  
-• GPA prediction with 90% accuracy – built in 36 hours during Hackville 2025
-
+> Real-time weather dashboard using Angular, Flask, Firebase, and an MQTT-connected Raspberry Pi client  
+• Displays live readings with <2s latency, historical charts, and a farm-location map  
+• Helps farmers set irrigation thresholds and tracks weather data from OpenWeatherMap through MQTT to Firestore
 ---
 
 ## 🧩 Experience Snapshot
