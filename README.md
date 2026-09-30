@@ -10,19 +10,19 @@
 
 ## 🙋‍♂️ About Me
 
-🎓 3rd-year Computer Science student specializing in **Cloud Computing** at Sheridan College  
+🎓 4th-year Computer Science student specializing in **Cloud Computing** at Sheridan College  
 ☁️ Experienced in **Site Reliability, ERP Systems, and Application Management** with industry exposure at **PointClickCare, De Havilland, and London Stock Exchange Group** <br>
-🛠️ Actively building smart, scalable systems using **ADK, AWS, Terraform, Docker, TensorFlow, React and Qiskit**
+🛠️ Actively building smart, scalable systems using **ADK, AWS, Terraform, Kubernetes, React and Qiskit**
 
 ---
 
 ## 🔧 Tech Stack
 
 **Languages & Tools**  
-`Python` `Java` `JavaScript` `C++` `C#` `SQL` `Bash` `PHP` `HTML` `CSS` `ServiceNow`  
+`Python` `Java` `JavaScript` `C++` `C#` `SQL` `Bash` `PHP` `HTML` `CSS` 
 
 **Cloud & DevOps**  
-`AWS` `Azure` `GCP` `Docker` `Kubernetes` `Terraform` `Ansible` `Jenkins` `GitHub Actions` `Control-M`  
+`AWS` `Azure` `GCP` `Docker` `Kubernetes` `Terraform` `Ansible` `Jenkins` `GitHub Actions`
 
 **Data Science & Analytics**  
 `TensorFlow` `Keras` `Scikit-learn` `Pandas` `NumPy` `Matplotlib` `MLflow` `Power BI` `Excel`  
@@ -58,6 +58,7 @@
 
 ## 🧩 Experience Snapshot
 
+- **Site Reliability Engineer Co-op** – *PointClickCare* *(May 2026 – Current)* 
 - **Site Reliability Engineer Co-op** – *PointClickCare* *(Sep 2025 – Dec 2025)*  
 - **ERP System Intern** – *De Havilland Aircraft of Canada Limited* *(Jun 2025 – Aug 2025)*  
 - **Student Ambassador** – *Sheridan College* *(Sep 2024 – Apr 2025)*  
