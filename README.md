@@ -25,7 +25,7 @@
 `AWS` `Azure` `GCP` `Docker` `Kubernetes` `Terraform` `Ansible` `Jenkins` `GitHub Actions`
 
 **AI & Agentic Systems**  
-`LangGraph` `OpenAI API` `OpenRouter JEV` `IBM watsonx.ai` `IBM Granite` `Vercel AI SDK` `Tavily` `ChromaDB` `Sentence Transformers` `Hugging Face Transformers` `XGBoost` `SHAP` `Rasa`  
+`LangGraph` `OpenAI API` `JEV` `IBM watsonx.ai` `IBM Granite` `Tavily` `ChromaDB` `Sentence Transformers` `Hugging Face Transformers` `XGBoost` `SHAP`
 
 **Data Science & Analytics**  
 `TensorFlow` `Keras` `Scikit-learn` `Pandas` `NumPy` `Matplotlib` `MLflow` `Power BI` `Excel`  
